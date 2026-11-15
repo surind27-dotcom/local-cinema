@@ -1,0 +1,4 @@
+movies/
+history_*.json
+__pycache__/
+*.pyc
